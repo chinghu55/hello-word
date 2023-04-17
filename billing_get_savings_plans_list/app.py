@@ -84,6 +84,7 @@ def lambda_handler(event, context):
             ignore_index=True
         )
 
+
     # if query result not empty, upload file to s3
     if not savings_plan_list_df.empty:
         savings_plan_list_df.sort_values(
