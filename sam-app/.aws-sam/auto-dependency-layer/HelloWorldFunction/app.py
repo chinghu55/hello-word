@@ -3,7 +3,7 @@ import json
 import pandas as pd
 from datetime import date
 from dateutil.relativedelta import relativedelta
-import requests
+# import requests
 
 
 def lambda_handler(event, context):
