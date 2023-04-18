@@ -2,7 +2,7 @@
 
 [sync_state]
 dependency_layer = true
-latest_infra_sync_time = "2023-04-18T03:21:50.077205"
+latest_infra_sync_time = "2023-04-18T03:23:29.967405"
 
 [resource_sync_states."AutoDependencyLayerParentSyncFlow:HelloWorldFunction"]
 hash = "e89082498daf785c7af53bdda5e0a9cfd2889debf507f7eab92e64ed0e78ae5d"
